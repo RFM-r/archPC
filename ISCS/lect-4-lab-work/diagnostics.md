@@ -1,3 +1,5 @@
+# Таблица, сделанная по данным из программы BurnInTest:
+
 Test name | Cycle | Operations | Errors | Last error Description |
 | ------- | ----- | ---------- | ------ | ---------------------- |
 Cpu Temp  |	0 | 757Bill  | "0"    |  -- 
