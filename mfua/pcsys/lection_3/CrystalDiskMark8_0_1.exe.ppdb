@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+#Author: user
+#CrystalDiskMark8_0_1.exe
+#Rating=1-5
+export PW_WINE_USE="PROTON_LG_10-28"
+export PW_PREFIX_NAME="DEFAULT"
+export PORTPROTON_NAME="CrystalDiskMark 8.0.1"
+export FILE_DESCRIPTION="CrystalDiskMark 8 Setup"
+export FILE_SHA256SUM="1ee157eda8c83a77ec78ce59e4c466aba557e953cef53cc172f61b15389dce18"
+export PW_VULKAN_USE="6"
