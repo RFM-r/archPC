@@ -1,4 +1,4 @@
-# 2. Таблица, сделанная по данным из программы MonTest:
+# 1. Таблица, сделанная по данным из программы MonTest:
 Тест | Характеристики
 -- | -- 
 • Модель монитора | VA2418-FHD
@@ -9,7 +9,7 @@
 • Число отображаемых цветов | 16.7 Million
 • Плотность пикселей | 92 ppi
 
-# 3. Test Config/Select Test Type - Tests:
+# 2. Test Config/Select Test Type - Tests:
 ## 1) Scale Black – Red, Green, Blue, White - Brightness on all 4 tests are the same, errors are unnoticed.
 ## 2) ...
 ## 3) Contrast Red, Green, Blue, White - Color Saturation Percentages
