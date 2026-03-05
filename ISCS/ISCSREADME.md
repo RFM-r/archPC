@@ -8,3 +8,5 @@
 ## [ 4-ая лабораторная работа по ВиПКС ](/ISCS/Lect5LabWork4/PcWizard.md)
 
 ## [ 5-ая лабораторная работа по ВиПКС ](/ISCS/Lect6LabWork5/PassmarkMonTest.md)
+
+## [ 6-ая лабораторная работа по ВиПКС ](/ISCS/Lect6LabWork5/GPUz_FurMark.md)
