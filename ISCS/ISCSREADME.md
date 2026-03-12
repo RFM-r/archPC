@@ -10,3 +10,5 @@
 ## [ 5-ая лабораторная работа по ВиПКС ](/ISCS/Lect6LabWork5/PassmarkMonTest.md)
 
 ## [ 6-ая лабораторная работа по ВиПКС ](/ISCS/Lect7LabWork6/GPUz_FurMark.md)
+
+## [ 7-ая лабораторная работа по ВиПКС ](/ISCS/Lect8LabWork7/AIDA64.md)
