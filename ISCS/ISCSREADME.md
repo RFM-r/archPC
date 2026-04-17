@@ -12,3 +12,5 @@
 ## [ 6-ая лабораторная работа по ВиПКС ](/ISCS/Lect7LabWork6/GPUz_FurMark.md)
 
 ## [ 7-ая лабораторная работа по ВиПКС ](/ISCS/Lect8LabWork7/AIDA64.md)
+
+## [ 8-ая лабораторная работа по ВиПКС ](/ISCS/Lect9LabWork8/PPT.md)
