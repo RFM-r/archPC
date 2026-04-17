@@ -157,7 +157,7 @@ Integer Math / CPU PhotoWorxx | - | 7151 MOps/s
 ### 3. Таблица:
 
 Устройство | Вариант | Цена
-- | - | -
+-- | - | -
 Процессор | Intel Core i5-12400F OEM | 13,2k Rub
 Оперативная память(ОЗУ) | Apacer [EL.08G21.GSH] 8 ГБ DDR5 | 7k Rub
 Накопитель | Apacer AS350 PANTHER 512 ГБ SSD | 7,6k Rub
