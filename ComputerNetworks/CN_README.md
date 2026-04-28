@@ -1,2 +1,2 @@
 # Список работ по компьютерным сетям:
-## [ 1-ая лабораторная работа по комп. сетям ](/LabWork#1/PersonalPCConnection.md)
+## [ 1-ая лабораторная работа по комп. сетям ](/ComputerNetworks/LabWork#1/PersonalPCConnection.md)
