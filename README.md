@@ -3,4 +3,4 @@
 ## Предметы:
 # [ Архитектура вычислительных средств ](/ComputingArchitecture/CAREADME.md "Работы по архитектуре вычислительных средств")
 # [ Внедрение и поддержка компьютерных систем ](/ISCS/ISCSREADME.md "Работы по ВиПКС")
-# [ Компьютерные сети ](/ComputerNetworks/CN_README.md)
+# [ Компьютерные сети ](/Computer_Networks/CN_README.md)
